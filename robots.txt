@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://drimix-mini.github.io/MathRush/sitemap.xml
+
+# Disallow admin or internal paths if any
+# Disallow: /admin/
+# Disallow: /_internal/
+
+# Allow all search engines to crawl the site
+# for better discoverability
+
+# Crawl delay (optional, helps prevent overload)
+# Crawl-delay: 1

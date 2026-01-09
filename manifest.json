@@ -1,0 +1,33 @@
+{
+  "name": "MathRush - Mental Math Game",
+  "short_name": "MathRush",
+  "description": "Challenge your mental math skills with MathRush! Free browser demo.",
+  "start_url": "/MathRush/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/MathRush/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/MathRush/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "education", "entertainment"],
+  "screenshots": [
+    {
+      "src": "/MathRush/screenshots/gameplay.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
